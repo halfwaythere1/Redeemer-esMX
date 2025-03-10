@@ -1,0 +1,8 @@
+## Interface: 33000
+## Title: Redeemer - [|cffb1997fUltimoWoW|r]
+## Notes: Resurrection messages. Pure fluff!
+## Dependencies:
+## SavedVariablesPerCharacter: RedeemerDisplaySay, RedeemerDisplayParty, RedeemerDisplayRaid, RedeemerDisplayWhisper
+RedeemerQuotes-esMX.lua
+Redeemer-esMX.lua
+Redeemer-esMX.xml
